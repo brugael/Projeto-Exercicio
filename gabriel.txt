@@ -3,3 +3,5 @@ Idade: 17
 Série: Prison Break
 Livro: Você é uma estrela
 Filme: Rei Leão
+Email: gabriel_cadore@estudante.sc.senai.br
+Instagram: gabrielcadore
